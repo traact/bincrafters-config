@@ -1,6 +1,8 @@
 # Conan Config
 
-A general Conan configuration for any Bincrafter project.
+Modified from general Conan configuration for any Bincrafter project.
+Adjust remotes and profiles for traact project.
+All profile values should be set except build_type
 
 ### Introduction
 
@@ -16,7 +18,7 @@ Anyone is able to use and contribute.
 
 To apply this template in your current environment:
 
-    $ conan config install https://github.com/bincrafters/conan-config.git
+    $ conan config install https://github.com/traact/bincrafters-config.git
 
 ### Local customization
 

@@ -1,2 +1,4 @@
 conan-center https://conan.bintray.com True
-bincrafters http://api.bintray.com/conan/bincrafters/public-conan True
+bincrafters https://api.bintray.com/conan/bincrafters/public-conan True
+camposs https://conan.campar.in.tum.de/api/conan/conan-camposs True
+traact https://traact.jfrog.io/artifactory/api/conan/traact True
