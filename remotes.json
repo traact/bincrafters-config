@@ -1,0 +1,29 @@
+{
+ "remotes": [
+  {
+   "name": "conancenter",
+   "url": "https://center.conan.io",
+   "verify_ssl": true
+  },
+  {
+   "name": "camposs",
+   "url": "https://conan.campar.in.tum.de/artifactory/api/conan/conan-camposs",
+   "verify_ssl": true
+  },
+  {
+   "name": "vendor",
+   "url": "https://conan.campar.in.tum.de/artifactory/api/conan/conan-vendor",
+   "verify_ssl": true
+  },
+  {
+   "name": "artekmed",
+   "url": "https://conan.campar.in.tum.de/artifactory/api/conan/conan-artekmed",
+   "verify_ssl": true
+  },
+  {
+   "name": "traact",
+   "url": "https://conan.campar.in.tum.de/artifactory/api/conan/conan-traact",
+   "verify_ssl": true
+  }
+ ]
+}
